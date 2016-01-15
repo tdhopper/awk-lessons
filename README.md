@@ -12,7 +12,7 @@ I decided to finally teach myself Awk and document the process in [Jupyter noteb
 2. [Built-in Functions](Lesson%2002%20Built%20in%20Functions.ipynb)
 3. Arrays
 4. ...
-5.
+
 ### Appendices
 
 1. [Other Tools](Appendix%2001%20Other%20Tools.ipynb)
